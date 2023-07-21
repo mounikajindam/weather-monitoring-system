@@ -2,10 +2,7 @@
 to view result and implementation, view the below google doc
 https://docs.google.com/document/d/1sJ4dq1VzzjyKl2XM4dHULvbXGggiixRZQFf1GZu2QiU/edit
 aurdino code
-/*Weather monitoring system with Thingspeak.
-   Created by the SriTu Hobby team.
-   Home Page
-*/
+
 
 #include <SFE_BMP180.h>
 #include <Wire.h>
